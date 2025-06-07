@@ -1,3 +1,9 @@
+# @Doctor Solo
+#
+#
+
+
+
 import  pandas               as pd
 import  numpy                as np
 import  matplotlib.pyplot    as plt
@@ -53,5 +59,4 @@ class AI_Config_Class:
     
     
     def AI_Show_Result(self):
-        #self.__config()
         self.__IA_Model()
